@@ -4,8 +4,8 @@ auth:
   oauth2:
     client:
       keycloak:
-        clientId: kafka-ui
-        clientSecret: wIM3wMT766rEolHc2Wr6rhwr6el0znWX
+        clientId: redacted
+        clientSecret: redacted
         scope: openid
         issuer-uri: http://localhost:9080/auth/realms/infra
         user-name-attribute: preferred_username
